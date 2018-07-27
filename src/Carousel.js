@@ -43,5 +43,25 @@ export default () => (
       <img src="https://www.10wallpaper.com/wallpaper/1280x960/1511/London_tower_bridge_thames-Cities_HD_Wallpaper_1280x960.jpg" alt="City 10"/>
       <p className="legend">City 10</p>
     </div>
+    <div>
+      <img src="https://www.saga.co.uk/contentlibrary/saga/publishing/verticals/travel/city-guides/south-bank-london.jpg" alt="City 11"/>
+      <p className="legend">City 11</p>
+    </div>
+    <div>
+      <img src="http://www.wallpapers13.com/wp-content/uploads/2016/01/City-night-scenery-wallpaper-Hd-1280x960.jpg" alt="City 12"/>
+      <p className="legend">City 12</p>
+    </div>
+    <div>
+      <img src="https://thetrustedtraveller.com/wp-content/uploads/2017/03/hancock-center-345415_1280.jpg" alt="City 13"/>
+      <p className="legend">City 13</p>
+    </div>
+    <div>
+      <img src="http://www.wallpapers13.com/wp-content/uploads/2016/02/Berlin-Wallpaper-City-Europe-Germany-1280x960.jpg" alt="City 14"/>
+      <p className="legend">City 14</p>
+    </div>
+    <div>
+      <img src="https://www.highreshdwallpapers.com/wp-content/uploads/2013/12/wallpaper-5-1280x960.jpg" alt="City 15"/>
+      <p className="legend">City 15</p>
+    </div>
   </Carousel>
 );
